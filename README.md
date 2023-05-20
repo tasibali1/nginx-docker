@@ -10,7 +10,7 @@ Note: Format of the answer should be divided into 4 sections as follows:
 - Cause: (To explain What is the cause of attack)
 - Identify: (To explain How will you identify this attack.)
 - Effect: (To explain What is the effect of this attack.)
-- Mitigation: ( To explain How will you mitigate this.)
+- Mitigation: (To explain How will you mitigate this.)
 
 ## Answer:
 1. a. CC (Challenge Collapsar) attack:
